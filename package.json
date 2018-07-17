@@ -1,13 +1,12 @@
 {
   "name": "vue-cleave",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Cleave component is based on cleave.js for Vue",
-  "repository": "vue-bulma/cleave",
+  "repository": "levi730/cleave",
   "license": "MIT",
   "author": {
-    "name": "Fangdun Cai",
-    "email": "cfddream@gmail.com",
-    "url": "fundon.me"
+    "name": "Mike Lester",
+    "email": "levi720@gmail.com"
   },
   "keywords": [
     "vue",
@@ -24,6 +23,6 @@
     "vue": ">=2"
   },
   "dependencies": {
-    "cleave.js": "^0.7.15"
+    "cleave.js": "^1.4.0"
   }
 }
